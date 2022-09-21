@@ -1,0 +1,6 @@
+Programação Concorrente -- Escolha uma das atividades a seguir:
+
+- Akka (modelo de atores) - Implemente uma aplicação Akka de exemplo implementando mecanismos de tolerância a falha;
+
+- Fork/Join (programação paralela) - Implemente o Quicksort com o framework Fork/Join.
+
