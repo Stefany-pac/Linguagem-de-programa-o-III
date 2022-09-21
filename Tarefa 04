@@ -1,0 +1,2 @@
+Programação Funcional -- Explore a classe java.util.stream.Collectors e desenvolva pequenas aplicações de exemplo para 5 métodos da classe, entre eles obrigatoriamente 
+devem haver métodos que retornem Collector de List, Map e Set. Além destes três obrigatórios escolha outros dois de sua preferência.
