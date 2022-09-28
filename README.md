@@ -7,15 +7,19 @@ de programação II. O principal tema de toda a tragetória das linguagens ensin
 A base para os estudos da matperia de lingugem de programação III será o livro "Código Limpo" do autor Robert Cecil Martin.
 
 Os códigos carregados nesse repositório seguem os seguintes tópicos:
-- Concorrência e paralelismno; 
+- Concorrência e paralelismo e seus problemas; 
+- Programação assíncrona;
 - Gerenciamento de estado e controle de fluxo de informação;
 - Metaprogramação;
+- Programação funcional;
+-  Null X Optional, exceptions;
 - Recursos e técnicas de programação funcional aplicados a linguagem;
 - Técnicas de refatoração e código limpo.
 
 Ferramentas utilizadas:
 - Eclipse.
 
+No repositório temos alguns códigos feitos para serem usados como avaliação. 
 
 
 
