@@ -1,0 +1,5 @@
+Colocar no github seus testes com as funcionalidades de Reflection do Java, que deve conter:
+- Instanciar classes usando o construtor sem parâmetros;
+- Instanciar classes que usem o construtor com parâmetros;
+- Listar Métodos e Atributos da Classe;
+- Alterar a visibilidade de um método private para que fique public.
